@@ -1,6 +1,6 @@
-/*UC 7 - Inner Class*/ 
+/*UC 7 - inner class*/ 
 
-public class UC7OOPS {
+public class UC8OOPS {
 
     // Inner static class to store character and its pattern
     static class CharacterPatternMap {
